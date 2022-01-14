@@ -5,3 +5,4 @@ More text here.
 add some more text
 
 It's friday!
+Bob's text before lunch.
