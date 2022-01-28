@@ -3,4 +3,4 @@
 	- python3
 
 ## Screenshot of proof
-![Proof of bot](bot-proof.png)
+![Proof of bot](bot-proof.PNG)
